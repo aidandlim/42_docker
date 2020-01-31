@@ -1,0 +1,10 @@
+# [00_how_to_docker] EXERCISE 07
+# by AIDAN LIM (@DLIM)
+#
+# SUBJECT
+#
+# Get the internal IP address of the overlord container 
+# without starting its shell and in one command.
+#
+# ANSWER
+

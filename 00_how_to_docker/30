@@ -1,0 +1,12 @@
+# [00_how_to_docker] EXERCISE 30
+# by AIDAN LIM (@DLIM)
+#
+# SUBJECT
+#
+# Increase the number of copies of the marines service up to twenty, 
+# because there’s never enough Marines to eliminate Zergs. 
+# ( Remember to take a look at the tasks and logs of the service, 
+#   you’ll see, it’s fun. )
+#
+# ANSWER
+

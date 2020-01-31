@@ -1,0 +1,15 @@
+# [00_how_to_docker] EXERCISE 28
+# by AIDAN LIM (@DLIM)
+#
+# SUBJECT
+#
+# ... Damn it, a group of zergs is attacking orbital-command, 
+# and shutting down the engineering-bay service won’t help at all... 
+# You must send a troup of Marines to eliminate the intruders. 
+# Launch a 42school/marine-squad in two replicas, 
+# and make sure that the service works properly 
+# (see the documentation provided at hub.docker.com). 
+# This service will be named... marines and will be on the overmind network.
+#
+# ANSWER
+

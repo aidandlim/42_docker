@@ -1,0 +1,10 @@
+# [00_how_to_docker] EXERCISE 13
+# by AIDAN LIM (@DLIM)
+#
+# SUBJECT
+#
+# Print the environment variables of the spawning-pool container in one command, 
+# to be sure that you have configured your container properly.
+#
+# ANSWER
+
