@@ -10,3 +10,4 @@
 #
 # ANSWER
 
+docker run --rm -it alpine /bin/sh

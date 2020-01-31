@@ -10,3 +10,4 @@
 #
 # ANSWER
 
+docker run --name roach-warden --link spawning-pool:db -e MYSQL_ROOT_PASSWORD="Kerrigan" -d -p 8081:80 phpmyadmin/phpmyadmin

@@ -8,3 +8,4 @@
 #
 # ANSWER
 
+docker inspect --format '{{ .NetworkSettings.IPAddress }}' overlord

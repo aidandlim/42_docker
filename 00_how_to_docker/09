@@ -12,4 +12,8 @@
 # in the container.
 #
 # ANSWER
+#
+# docker run --name debian --rm -it debian /bin/bash
 
+apt-get update
+apt-get install -y gcc git

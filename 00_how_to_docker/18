@@ -7,3 +7,4 @@
 #
 # ANSWER
 
+docker restart overlord

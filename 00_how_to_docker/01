@@ -8,4 +8,4 @@
 #
 # ANSWER
 
-docker-machine create --driver virtualbox char
+docker-machine create --driver virtualbox Char

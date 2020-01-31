@@ -11,3 +11,4 @@
 #
 # ANSWER
 
+eval $(docker-machine env Char)
